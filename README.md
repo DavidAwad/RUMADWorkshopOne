@@ -38,6 +38,12 @@ You'll see that we create pointers through references to the unique ID's on ever
 
 Enjoy the Docs! --David Awad
 
+## Potential Improvements
+
+Adding some api calls or http [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) and displaying the output. 
+
+
+
 ## Possible Bugs
 
 You may get an error talking about there being a required content.Context try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
