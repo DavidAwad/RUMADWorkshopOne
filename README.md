@@ -1,4 +1,4 @@
-# RUMADWorkshopOne
+# SimpleAndroid
 Our first workshop for Spring 2015!
 
 ## Installation
