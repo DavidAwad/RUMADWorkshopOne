@@ -1,15 +1,15 @@
 # RUMADWorkshopOne
 Our first workshop for Spring 2015!
 
+## Installation
+Make sure you have git installed
 
-Steps
-======
+Use the Github desktop app to clone this repository or go to your command line, create an android folder on the Desktop, and we'll clone our example app.
 
-1. Make sure you have git installed
-2. Use the Github desktop app to clone this repository or go to your command line, navigate to your workspace, create a directory, and
-  and once you're in the directory do `git clone https://github.com/RutgersMobileApplicationDevelopment/RUMADWorkshopOne.git`
-3. You now have all the source code you need! Just import the project into Android Studio. 
+`mkdir android `
+`git clone https://github.com/DavidAwad/SimpleAndroid`
 
+You now have all the source code you need! Just import the project into Android Studio. 
 
 ## Red / Blue Text
 So the point of this app is to do some Basic I/O in Android on the latest SDK. 
@@ -27,3 +27,7 @@ So for example let's look at the [mainActivity](https://github.com/RutgersMobile
 You'll see that we create pointers through references to the unique ID's on every single resource, which are defined inside the XML. After that you can manipulate these pointers with event listeners and whatever other functions the android library provides. 
 
 Enjoy the Docs! --David Awad
+
+## Contributors
+
+This code was thankfully written by [Shreyas Hirday](https://github.com/shreyashirday) with some edits by me. He's a developer with mySwapp LLC, feel free to connect with him. 
