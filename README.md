@@ -6,8 +6,10 @@ Make sure you have git installed
 
 Use the Github desktop app to clone this repository or go to your command line, create an android folder on the Desktop, and we'll clone our example app.
 
-`mkdir android `
-`git clone https://github.com/DavidAwad/SimpleAndroid`
+```shell
+mkdir android 
+git clone https://github.com/DavidAwad/SimpleAndroid
+```
 
 You now have all the source code you need! Just import the project into Android Studio. 
 
