@@ -1,8 +1,16 @@
 # SimpleAndroid
-Our first workshop for Spring 2015!
+
+
 
 ## Installation
-Make sure you have git installed
+Make sure you have git installed. If you don't, here you go. 
+```
+sudo apt-get install git
+```
+OR
+```
+brew install git
+```
 
 Use the Github desktop app to clone this repository or go to your command line, create an android folder on the Desktop, and we'll clone our example app.
 
