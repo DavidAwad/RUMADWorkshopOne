@@ -38,6 +38,18 @@ You'll see that we create pointers through references to the unique ID's on ever
 
 Enjoy the Docs! --David Awad
 
+## Possible Bugs
+
+You may get an error talking about there being a required content.Context try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
+
+You may get an error looking something like 
+
+```android
+X:XX:XX PM IllegalStateException: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.
+```
+If you get this error try re-starting android studio. 
+
+
 ## Contributors
 
 This code was thankfully written by [Shreyas Hirday](https://github.com/shreyashirday) with some edits by me. He's a developer with mySwapp LLC, feel free to connect with him. 
