@@ -48,7 +48,12 @@ Enjoy the Docs! --David Awad
 
 ## Potential Improvements
 
-Adding some api calls or http [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) and displaying the output.
+You'll notice that the icons have been changed. You can start your new project by opening up [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) and designing a cool simple logo for your new project. You can import the generated icons by simply moving the files into the corresponding folders inside of `app/src/main/res/`. In there you'll see the different drawable folders for different screen resolutions.
+
+Since you're a hotshot designer now why not try using Material Design? Here are some [Material Design Examples](https://github.com/navasmdc/MaterialDesignLibrary#flat-button) for you to mess with.
+
+After that you can try adding some api calls or http  [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) based on user input and displaying the output on the screen. Now that you can style things out. 
+
 
 ## Possible Bugs
 
@@ -63,11 +68,11 @@ X:XX:XX PM IllegalStateException: Cannot locate factory for objects of type Defa
 If you get this error try re-starting android studio.
 
 ##Resources
-####[Awesome Android](https://github.com/snowdream/awesome-android#Framework) is a huge index of useful libraries and packages to do things on Android. 
-####[Android-lite-http](https://github.com/litesuits/android-lite-http) is an easy way to make http requests on Android. 
+####[Awesome Android](https://github.com/snowdream/awesome-android#Framework) is a huge index of useful libraries and packages to do things on Android.
+####[Android-lite-http](https://github.com/litesuits/android-lite-http) is an easy way to make http requests on Android.
 ####[Material Design Examples](https://github.com/navasmdc/MaterialDesignLibrary#flat-button) and [Widgets](https://github.com/keithellis/MaterialWidget)
 ####[Material icons](https://github.com/google/material-design-icons)
-####[Android Assets Generator](https://github.com/romannurik) by the great [Roman Nurik](https://github.com/romannurik)
+####[Android Assets Generator](http://romannurik.github.io/AndroidAssetStudio/) by the great [Roman Nurik](https://github.com/romannurik)
 
 ## Contributors
 
