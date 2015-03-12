@@ -27,6 +27,10 @@ So the point of this app is to do some Basic I/O in Android on the latest SDK.
 
 We'll take some form input, render the input on the screen and change it's colors. The colors can be changed through two buttons on the screen, in addition we'll create a button that will jump to a completely separate activity.
 
+## Here's a screenshot
+
+![](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/photos/blue.png)
+
 ## How it works
 
 Most of the hierarchy of Android happens through activities. You can think of activities as a sort of "execution context" for an android application. More simply put, an activity is what screen of the application the user can currently see.
