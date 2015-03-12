@@ -1,5 +1,5 @@
 # SimpleAndroid
-## A David Awad Talk
+## A David Awad &copy; Talk
 
 ![](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/photos/landing.png)
 
