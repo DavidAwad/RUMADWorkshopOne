@@ -53,8 +53,14 @@ You may get an error looking something like
 ```android
 X:XX:XX PM IllegalStateException: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.
 ```
-
 If you get this error try re-starting android studio.
+
+##Resources
+####[Awesome Android](https://github.com/snowdream/awesome-android#Framework) is a huge index of useful libraries and packages to do things on Android. 
+####[Android-lite-http](https://github.com/litesuits/android-lite-http) is an easy way to make http requests on Android. 
+####[Material Design Examples](https://github.com/navasmdc/MaterialDesignLibrary#flat-button) and [Widgets](https://github.com/keithellis/MaterialWidget)
+####[Material icons](https://github.com/google/material-design-icons)
+####[Android Assets Generator](https://github.com/romannurik) by the great [Roman Nurik](https://github.com/romannurik)
 
 ## Contributors
 
