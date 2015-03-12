@@ -1,7 +1,7 @@
 # SimpleAndroid
 ## A David Awad &copy; Talk
 
-![](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/photos/landing.png)
+![](https://github.com/DavidAwad/SimpleAndroid/photos/landing.png)
 
 ## Installation
 Make sure you have git installed. If you don't, here you go.
@@ -29,7 +29,7 @@ We'll take some form input, render the input on the screen and change it's color
 
 ## Here's a screenshot
 
-![](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/photos/blue.png)
+![](https://github.com/DavidAwad/SimpleAndroid/blob/photos/blue.png)
 
 ## How it works
 
