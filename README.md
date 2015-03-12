@@ -1,7 +1,5 @@
 # SimpleAndroid
 
-
-
 ## Installation
 Make sure you have git installed. If you don't, here you go.
 ```
