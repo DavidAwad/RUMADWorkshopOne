@@ -30,16 +30,18 @@ Most of the hierarchy of Android happens through activities. You can think of ac
 
 Since this is the case, each activity has some code that determines how the screen will appear and has code that handles what the app can do. Kind of like HTML and JavaScript. Where each html page has Javascript that is specified for it and there are links on each HTML page that define what other pages you can go to.
 
-So for example let's look at the [MainActivity.java](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/java/edu/rutgers/rumad/rumadworkshopone/completed/MainActivityCompleted.java). There is a [MainActivity.xml](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/layout/activity_main.xml) file and a mainActivity.java file. The java determines our functionality and the xml determines the appearance between the two. The way that the java file interfaces with the resources and buttons in the screen layout is through the resource collection referred to as [R.java](http://www.yugandroid.in/android-tutorials/r-java-file.html).
+So for example let's look at the [MainActivity.xml](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/layout/activity_main.xml) file and [MainActivityCompleted.java](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/java/edu/rutgers/rumad/rumadworkshopone/completed/MainActivityCompleted.java) files. These can be found in the [src directory](https://github.com/DavidAwad/SimpleAndroid/tree/master/app/src/main). Java determines our functionality and the xml determines the appearance between the two. The way that the java file interfaces with the resources and buttons in the screen layout is through the resource collection referred to as [R.java](http://www.yugandroid.in/android-tutorials/r-java-file.html).
 
 You'll see that we create pointers through references to the unique ID's on every single resource, which are defined inside the XML. After that you can manipulate these pointers with event listeners and whatever other functions the android library provides.
+
+Still Confused?
+Just take a look at the code. There are a lot of comments that will guide you straight along!
 
 Enjoy the Docs! --David Awad
 
 ## Potential Improvements
 
 Adding some api calls or http [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) and displaying the output.
-
 
 ## Possible Bugs
 
