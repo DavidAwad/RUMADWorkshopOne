@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".boilerplate.MainActivity"
+            android:name=".completed.MainActivityCompleted"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,9 +17,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".completed.SecondActivity"
+            android:name=".completed.SecondActivityCompleted"
             android:label="@string/title_activity_second" >
         </activity>
+
+        <!--
         <activity
             android:name=".completed.MainActivityCompleted"
             android:label="@string/title_activity_main_activity_completed" >
@@ -28,6 +30,8 @@
             android:name=".completed.SecondActivityCompleted"
             android:label="@string/title_activity_second_activity_completed" >
         </activity>
+        -->
+
     </application>
 
 </manifest>
