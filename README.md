@@ -1,4 +1,7 @@
 # SimpleAndroid
+## A David Awad Talk
+
+![](https://github.com/DavidAwad/SimpleAndroid/blob/master/app/src/main/res/photos/landing.png)
 
 ## Installation
 Make sure you have git installed. If you don't, here you go.
