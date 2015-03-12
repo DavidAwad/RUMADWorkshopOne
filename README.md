@@ -40,33 +40,21 @@ Enjoy the Docs! --David Awad
 
 ## Potential Improvements
 
-<<<<<<< HEAD
 Adding some api calls or http [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) and displaying the output.
-=======
-Adding some api calls or http [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) and displaying the output. 
->>>>>>> 2f461457758384335798ed19060c61b63596d606
-
 
 
 ## Possible Bugs
 
 You may get an error talking about there being a required content.Context try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
 
-<<<<<<< HEAD
+
 You may get an error looking something like
-=======
-You may get an error looking something like 
->>>>>>> 2f461457758384335798ed19060c61b63596d606
 
 ```android
 X:XX:XX PM IllegalStateException: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.
 ```
-<<<<<<< HEAD
-If you get this error try re-starting android studio.
-=======
-If you get this error try re-starting android studio. 
->>>>>>> 2f461457758384335798ed19060c61b63596d606
 
+If you get this error try re-starting android studio.
 
 ## Contributors
 
