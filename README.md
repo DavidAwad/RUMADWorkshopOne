@@ -1,7 +1,7 @@
 # SimpleAndroid
 ## A David Awad &copy; Talk
 
-![](https://github.com/DavidAwad/SimpleAndroid/blob/master/photos/landing.png)
+![](https://github.com/DavidAwad/SimpleAndroid/blob/master/screenshots/landing.png)
 
 ## Installation
 Make sure you have git installed. If you don't, here you go.
@@ -29,7 +29,7 @@ We'll take some form input, render the input on the screen and change it's color
 
 ## Here's a screenshot
 
-![](https://github.com/DavidAwad/SimpleAndroid/blob/master/photos/blue.png)
+![](https://github.com/DavidAwad/SimpleAndroid/blob/master/screenshots/blue.png)
 
 
 ## How it works
@@ -53,7 +53,7 @@ You'll notice that the icons have been changed. You can start your new project b
 
 Since you're a hotshot designer now why not try using Material Design? Here are some [Material Design Examples](https://github.com/navasmdc/MaterialDesignLibrary#flat-button) for you to mess with.
 
-After that you can try adding some api calls or http  [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) based on user input and displaying the output on the screen. Now that you can style things out. 
+After that you can try adding some api calls or http  [requests](http://stackoverflow.com/questions/3505930/make-an-http-request-with-android) based on user input and displaying the output on the screen. Now that you can style things out.
 
 
 ## Possible Bugs
