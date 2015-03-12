@@ -27,6 +27,7 @@ public class MainActivityCompleted extends ActionBarActivity {
     @Override  // on the creation of this context, create the content views, initialize instances and set content view from R.java
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
+        // set the content view to the activity_main xml file
         setContentView(R.layout.activity_main);
         // ctx is set. ctx is a pointer to the current rendered context on the Android device.
         ctx = this;
@@ -50,7 +51,7 @@ public class MainActivityCompleted extends ActionBarActivity {
                 /* Fills in the currently empty text of output
                  var "inputText" */
                 output.setText(inputText);
-                /* Now make the color red like css */
+                /* Now make the color red like we would in css */
                 output.setTextColor(Color.RED);
             }
         });
@@ -74,9 +75,7 @@ public class MainActivityCompleted extends ActionBarActivity {
                 startActivity(intent);
             }
         });
-
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -87,12 +86,12 @@ public class MainActivityCompleted extends ActionBarActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
+        /* Handle action bar item clicks here. The action bar will
+           automatically handle clicks on the Home/Up button, so long
+           as you specify a parent activity in AndroidManifest.xml.
+        */
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
         }
