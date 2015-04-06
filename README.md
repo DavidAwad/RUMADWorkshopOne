@@ -58,7 +58,7 @@ After that you can try adding some api calls or http  [requests](http://stackove
 
 ## Possible Bugs
 
-You may get an error talking about there being a required content.Context try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
+You may get an error talking about there being a required `content.Context` try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
 
 
 You may get an error looking something like
