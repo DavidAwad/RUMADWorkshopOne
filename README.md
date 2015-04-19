@@ -78,3 +78,7 @@ If you get this error try re-starting android studio.
 ## Contributors
 
 This code was originally written by [Shreyas Hirday](https://github.com/shreyashirday) with some edits by me. He's a developer with mySwapp LLC, feel free to connect with him.
+
+## Looking for More? 
+
+## [SimpleAndroid2](https://github.com/DavidAwad/SimpleAndroid2)
