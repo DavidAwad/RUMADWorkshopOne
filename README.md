@@ -58,10 +58,11 @@ After that you can try adding some api calls or http  [requests](http://stackove
 
 ## Possible Bugs
 
-You may get an error talking about there being a required `content.Context` try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
+- You may get an error talking about there being a required `content.Context` try looking at [this](http://stackoverflow.com/questions/18509324/the-type-android-content-context-cannot-be-resolved-it-is-indirectly-referenced)
 
+- If you get something about being unable to resolve R.java, try going to gradle > clean project. Or Gradle > rebuild project. 
 
-You may get an error looking something like
+- You may get an error looking something like
 
 ```android
 X:XX:XX PM IllegalStateException: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.: Cannot locate factory for objects of type DefaultGradleConnector, as ConnectorServiceRegistry has been closed.
