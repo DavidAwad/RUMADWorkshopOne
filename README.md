@@ -1,7 +1,10 @@
 # SimpleAndroid
-## A David Awad &copy; Talk
+
+### This is meant to be a simple talk for people who've done front end dev to get used to the similarities and differences of writing android applications. It is the first in a series, if you have any improvements or ideas please feel free to make an issue or reach out to me. Thanks! 
 
 ![](https://github.com/DavidAwad/SimpleAndroid/blob/master/screenshots/landing.png)
+
+
 
 ## Installation
 Make sure you have git installed. If you don't, here you go.
